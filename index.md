@@ -1,5 +1,4 @@
-<p>![](assets/splash1.png) </p>
-
+<img src="./assets/splash1.png" />
 
 
 ## Welcome to the ASCI638 blog!
