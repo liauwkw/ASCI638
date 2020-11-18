@@ -1,4 +1,3 @@
-# ASCI638
 <img src="https://github.com/liauwkw/ASCI638/blob/main/splash.png" width="100%" style="max-width:100%;">
 
 Welcome to the ASCI638 blog!
