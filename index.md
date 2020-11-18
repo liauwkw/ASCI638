@@ -1,4 +1,5 @@
-![](blob/main/splash.png)
+![useful image]({{ site.url }}/assets/splash1.png)
+
 
 ## Welcome to the ASCI638 blog!
 This was created in fulfillment of the ASCI 638 module: Human Factors in Unmanned Aerospace Systems.
