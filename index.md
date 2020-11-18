@@ -1,4 +1,6 @@
-<p><img src="https://liauwkw.github.io/ASCI638/assets/splash1.png" alt="splash" ==$0 </p>
+<p>![](assets/splash1.png) </p>
+
+
 
 ## Welcome to the ASCI638 blog!
 This was created in fulfillment of the ASCI 638 module: Human Factors in Unmanned Aerospace Systems.
