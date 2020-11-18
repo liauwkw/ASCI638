@@ -1,5 +1,4 @@
-<img src="https://github.com/liauwkw/ASCI638/blob/main/splash.png" alt="hi" class="inline"/>
-
+![](blob/main/splash.png)
 
 ## Welcome to the ASCI638 blog!
 This was created in fulfillment of the ASCI 638 module: Human Factors in Unmanned Aerospace Systems.
