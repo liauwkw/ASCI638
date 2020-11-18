@@ -1,4 +1,4 @@
-![useful image]({{ site.url }}/assets/splash1.png)
+![]({{https://liauwkw.github.io/ASCI638/}}/assets/splash1.png)
 
 
 ## Welcome to the ASCI638 blog!
