@@ -4,7 +4,7 @@
 I am liauwkw, a graduate student from Embry-Riddle Aeronautical University - Worldwide. This blog was created in fulfillment of the ASCI 638 module: Human Factors in Unmanned Aerospace Systems, as part of the MSc Aeronautics program.
 
 ## Topical Discussions
-* [UAS Human Factors](https://github.com/liauwkw/ASCI638/blob/gh-pages/humanfactors.md)
+* [UAS Human Factors](https://gist.github.com/liauwkw/4a08f0cf2f38131d6f173b83ea768bcb)
 * The Hub
 * UAM, UTM and NextGen(NAS)
 * Risk Management and ADM
