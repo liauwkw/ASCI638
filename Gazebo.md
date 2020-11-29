@@ -20,7 +20,7 @@ In terms of hardware, a sample of components amounting to $850 could produce an 
 <img src="https://github.com/liauwkw/ASCI638/blob/main/BOM2.png" width="60%" style="max-width:60%;">
 
 <h3>Evaluation of Cost-effectiveness</h3>
-Within a two-month prototyping period comprising separate lab and field trials, the use of simulation is cost-effective for the first month due to the deferment of regulatory costs, which would be applied if the prototype proceeds from the lab to field trial as shown as follow:
+Within a two-month prototyping period comprising separate lab and field trials, the use of simulation is cost-effective for the first month due to the deferment of regulatory costs, which would be applied if the prototype proceeds from the lab to field trial as follow:
 
 <img src="https://github.com/liauwkw/ASCI638/blob/main/costeffectivenesseval2.png" width="65%" style="max-width:65%;">
 
