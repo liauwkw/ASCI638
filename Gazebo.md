@@ -12,17 +12,17 @@ It is assumed that a junior robotics engineer can complete the setup of Gazebo a
 
 
 
-<img src="https://github.com/liauwkw/ASCI638/blob/main/UAS%20regulatory%20cost.png" width="60%" style="max-width:60%;">
+<img src="https://github.com/liauwkw/ASCI638/blob/main/UAS%20regulatory%20cost.png" width="65%" style="max-width:65%;">
 
 <h3>Hardware Cost</h3>
 In terms of hardware, a sample of components amounting to $850 could produce an AI-capable SLAM UAS as shown in the table below. This cost must be offset with those of the simulation system which costs less at $810 inclusive of accessories at present local prices for used-components to build a Linux operating system running on Intel I5-equivalent CPU, 500MB disk space with a dedicated GPU. A direct comparison of asset costs would yield an insignificant increase of $855 – $854 = $1. The hallmark of computer simulation systems is the savings on recurrent costs of the same, hence users could expect to avoid additional costs of up to $854 per iteration or replacement of UAS. 
 
-<img src="https://github.com/liauwkw/ASCI638/blob/main/BOM2.png" width="55%" style="max-width:55%;">
+<img src="https://github.com/liauwkw/ASCI638/blob/main/BOM2.png" width="60%" style="max-width:60%;">
 
 <h3>Evaluation of Cost-effectiveness</h3>
 Within a two-month prototyping period comprising separate lab and field trials, the use of simulation is cost-effective for the first month due to the deferment of regulatory costs, which would be applied if the prototype proceeds from the lab to field trial as shown as follow:
 
-<img src="https://github.com/liauwkw/ASCI638/blob/main/costeffectivenesseval.png" width="60%" style="max-width:60%;">
+<img src="https://github.com/liauwkw/ASCI638/blob/main/costeffectivenesseval2.png" width="65%" style="max-width:65%;">
 
 <h3>Limitations of Evaluation</h3>
 Thus far, the time and expenses method did not consider the value proposition of expertise, innovation, research capabilities and knowledge management, which are advantageous in research and development of UAS. Reviewing past implementations of various simulations in the military context, researchers further elaborated that there are process innovation benefits to be considered, such as safer and quicker processes when incorporated into “System Acquisition” (Vincenzi, 2009, p. 12). These factors present a broad definition encompassing opportunity costs as well as the transfer of training, while making commercial Return on Investment (ROI) calculations presented earlier seem brief (Bonnabry & François, 2020). Hence, the development of an organization-specific evaluation of cost-effectiveness could be beneficial.
