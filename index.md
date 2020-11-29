@@ -13,7 +13,7 @@ I am liauwkw, a graduate student from Embry-Riddle Aeronautical University - Wor
 * UAS Mishaps and Accidents
 * UAS Crewmember/Operator Requirements
 
-## Experiments
+## Concepts & Experiments
 * [YOLOv5 Retrained on Passionfruit Dataset](https://github.com/liauwkw/pfruit)
 * [Preliminary Cost-effectiveness Study of ROS Gazebo](https://github.com/liauwkw/ASCI638/blob/main/Gazebo.md)
 
