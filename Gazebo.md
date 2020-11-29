@@ -15,9 +15,9 @@ It is assumed that a junior robotics engineer can complete the setup of Gazebo a
 <img src="https://github.com/liauwkw/ASCI638/blob/main/UAS%20regulatory%20cost.png" width="60%" style="max-width:60%;">
 
 <h3>Hardware Cost</h3>
-In terms of hardware, a sample of components amounting to $850 could produce an AI-capable SLAM UAS as shown in the table below. This cost must be offset with those of the simulation system which costs less at $810 inclusive of accessories at present local prices for used-components to build a Linux operating system running on Intel I5-equivalent CPU, 500MB disk space with a dedicated GPU. A direct comparison of asset costs would yield a marginal saving of $854 – $810 = $44. The hallmark of computer simulation systems is the savings on recurrent costs of the same, hence users could expect to avoid additional costs of up to $854 per iteration or replacement of UAS. 
+In terms of hardware, a sample of components amounting to $850 could produce an AI-capable SLAM UAS as shown in the table below. This cost must be offset with those of the simulation system which costs less at $810 inclusive of accessories at present local prices for used-components to build a Linux operating system running on Intel I5-equivalent CPU, 500MB disk space with a dedicated GPU. A direct comparison of asset costs would yield an insignificant increase of $855 – $854 = $1. The hallmark of computer simulation systems is the savings on recurrent costs of the same, hence users could expect to avoid additional costs of up to $854 per iteration or replacement of UAS. 
 
-<img src="https://github.com/liauwkw/ASCI638/blob/main/BOM.png" width="55%" style="max-width:55%;">
+<img src="https://github.com/liauwkw/ASCI638/blob/main/BOM2.png" width="55%" style="max-width:55%;">
 
 <h3>Evaluation of Cost-effectiveness</h3>
 Within a two-month prototyping period comprising separate lab and field trials, the use of simulation is cost-effective for the first month due to the deferment of regulatory costs, which would be applied if the prototype proceeds from the lab to field trial as shown as follow:
