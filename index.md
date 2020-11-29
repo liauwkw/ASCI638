@@ -15,5 +15,6 @@ I am liauwkw, a graduate student from Embry-Riddle Aeronautical University - Wor
 
 ## Experiments
 * [YOLOv5 Retrained on Passionfruit Dataset](https://github.com/liauwkw/pfruit)
+* [Preliminary Cost-effectiveness Study of ROS Gazebo](https://github.com/liauwkw/ASCI638/blob/main/Gazebo.md)
 
 Contact liauwk@my.erau.edu.
