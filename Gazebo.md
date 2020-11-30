@@ -12,7 +12,7 @@ It is assumed that a junior robotics engineer can complete the setup of Gazebo a
 
 
 
-<img src="https://github.com/liauwkw/ASCI638/blob/main/UAS%20regulatory%20cost.png" width="100%" style="max-width:100%;">
+<img src="https://github.com/liauwkw/ASCI638/blob/main/UAS%20regulatory%20cost2.png" width="100%" style="max-width:100%;">
 
 <h3>Hardware Cost</h3>
 In terms of hardware, a sample of components amounting to $850 could produce an AI-capable SLAM UAS as shown in the table below. This cost must be offset with those of the simulation system which costs less at $839 inclusive of accessories at present local prices for used-components to build a Linux operating system running on Intel I5-equivalent CPU, 500MB disk space with a dedicated GPU. While the asset costs are comparable, the hallmark of computer simulation systems is the savings on recurrent costs of the same, hence users could expect to avoid additional costs of up to $854 per iteration or replacement of UAS. 
