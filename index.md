@@ -10,7 +10,7 @@ I am liauwkw, a graduate student from Embry-Riddle Aeronautical University - Wor
 * [Risk Management and ADM](https://gist.github.com/liauwkw/65fe101a7f9d047b80a19df61ce1107b)
 * [Physiological Issues in UAS](https://gist.github.com/liauwkw/b96ba5abaf6c9827da252c4f2e0263d1)
 * [UAS and Manned Aircraft Autonomy](https://gist.github.com/liauwkw/c58a6a421a252060d709b9ad2eda5564)
-* [UAS Mishaps and Accidents] (https://gist.github.com/liauwkw/8cda928c83993fa62639c906a77a16b4)
+* [UAS Mishaps and Accidents](https://gist.github.com/liauwkw/8cda928c83993fa62639c906a77a16b4)
 * UAS Crewmember/Operator Requirements
 
 ## Concepts & Experiments
