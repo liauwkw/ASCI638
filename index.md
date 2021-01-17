@@ -11,7 +11,7 @@ I am liauwkw, a graduate student from Embry-Riddle Aeronautical University - Wor
 * [Physiological Issues in UAS](https://gist.github.com/liauwkw/b96ba5abaf6c9827da252c4f2e0263d1)
 * [UAS and Manned Aircraft Autonomy](https://gist.github.com/liauwkw/c58a6a421a252060d709b9ad2eda5564)
 * [UAS Mishaps and Accidents](https://gist.github.com/liauwkw/8cda928c83993fa62639c906a77a16b4)
-* UAS Crewmember/Operator Requirements
+* [UAS Crewmember/Operator Requirements](https://gist.github.com/liauwkw/2df0ef7fd2af94922f2eb25a0f2797ea)
 
 ## Concepts & Experiments
 * [YOLOv5 Retrained on Passionfruit Dataset](https://github.com/liauwkw/pfruit)
