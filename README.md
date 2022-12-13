@@ -3,3 +3,5 @@
 This was created in fulfillment of the ASCI 638 module: Human Factors in Unmanned Aerospace Systems.
 Contact liauwk@my.erau.edu.
 
+Gists can be found here: https://gist.github.com/liauwkw
+
